@@ -1,6 +1,4 @@
 import streamlit as st
-st.title(" SPHERE CALCULATION ")
-st.write(" welcome to my portfolio ")
 import subprocess
 import sys
 import math
