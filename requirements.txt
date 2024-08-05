@@ -1,6 +1,6 @@
 streamlit
-python == "<3.5"
 numba
+python == "<3.5"
 PIL
 uv
 pip
