@@ -1,5 +1,5 @@
 streamlit
-python
+numba
 PIL
 uv
 pip
