@@ -1,8 +1,7 @@
 streamlit
 numba
-python_version >=3.6, <3.9
+pip
 PIL
 uv
-pip
 sqlalchemy
 tkinter
