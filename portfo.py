@@ -1,8 +1,7 @@
 import streamlit as st
-from tkinter import YES
 from PIL import Image
 from sqlalchemy import create_engine
-import tkinter
+
 
 st.set_page_config(
         page_title="Portfolio",
