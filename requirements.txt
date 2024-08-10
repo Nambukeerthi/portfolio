@@ -1,7 +1,6 @@
 streamlit
 numba
 pip
-PIL
 uv
 sqlalchemy
 tkinter
