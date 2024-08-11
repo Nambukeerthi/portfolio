@@ -32,14 +32,14 @@ with col2:
 with col3:
    st.link_button("linked in", "https://www.linkedin.com/in/keerthi-r-9b8839283/")        
 
-st.subheader("Skils")
+st.subheader("Skills")
 st.markdown(
     """
-    :computer: Programming Skils - *Python (Numpy,Pandas,Skikit-learn), SQL, VBA*                 
+    :computer: Programming Skills - *Python (Numpy,Pandas,Skikit-learn), SQL, VBA*                 
     
     :chart_with_upwards_trend: Data Visualization - *Statistics, Power BI, MS Excel, Plotly*
     
-    :books: Models - *Regression, Decision tree, Random Forest*
+    :books: ML Models - *Regression, Decision tree, Random Forest*
     
     :file_cabinet: Databases - *MySQL, PostrageSQL, MangoDB*
     
