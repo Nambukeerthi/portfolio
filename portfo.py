@@ -13,7 +13,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     #st.write("portfolio")
-    img = Image.open("logo.jpg")
+    img = Image.open("logo.png")
     st.image( img, use_column_width=True,channels="RGB" )
     
 with col2:
@@ -44,6 +44,19 @@ st.markdown(
     :file_cabinet: Databases - *MySQL, PostrageSQL, MangoDB*
     
     :sun_behind_cloud: Cloud - *AWS* 
+    
+    """
+)
+st.subheader("Projects")
+st.markdown(
+    """
+    1. YouTube Data Harvesting and Warehousing using SQL and Streamlit
+    
+    2. Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly
+    
+    3. Airbnb Analysis
+    
+    4. Industrial Copper Modeling
     
     """
 )
