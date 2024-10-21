@@ -52,7 +52,7 @@ st.markdown(
     """
     1. YouTube Data Harvesting and Warehousing using SQL and Streamlit
     
-    2. Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly
+    2. [Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly](https://phonepeproject-np7vzyrwmrqn9jhyn94teg.streamlit.app/)
     
     3. Airbnb Analysis
     
