@@ -50,7 +50,7 @@ st.markdown(
 st.subheader("Projects")
 st.markdown(
     """
-    1. YouTube Data Harvesting and Warehousing using SQL and Streamlit
+    1. [YouTube Data Harvesting and Warehousing using SQL and Streamlit](https://youtubedataproject-mkjagva9qhyswv8gukrxaq.streamlit.app/)
 
          The Streamlit application that allows users to access and analyze data from multiple YouTube channels.
     
