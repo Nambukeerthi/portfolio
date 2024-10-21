@@ -51,12 +51,16 @@ st.subheader("Projects")
 st.markdown(
     """
     1. YouTube Data Harvesting and Warehousing using SQL and Streamlit
+
+         The Streamlit application that allows users to access and analyze data from multiple YouTube channels.
     
     2. [Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly](https://phonepeproject-np7vzyrwmrqn9jhyn94teg.streamlit.app/)
 
          The Phonepe pulse Github repository contains a large amount of data related tovarious metrics and statistics. The goal is to extract this data and process it to obtaininsights and information that can be visualized in a user-friendly manner.
     
     3. Airbnb Analysis
+
+         This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
     
     4. Industrial Copper Modeling
     
