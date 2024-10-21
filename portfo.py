@@ -35,13 +35,15 @@ with col3:
 st.subheader("Skills")
 st.markdown(
     """
-    :computer: Programming Skills - *Python (Numpy,Pandas,Skikit-learn), SQL, VBA*                 
+    :computer: Technologies - *Python, Streamlit, EDA, API integration, VBA, Github*  
+
+    :books: Libraries - *Numpy, Pandas, Skikit-learn, Matplotlib, Seaborn, SQLAlchemy, Boto3*
     
+    :triangular_ruler: ML Models - *Regression, Decision tree, Random Forest*
+    
+    :file_cabinet: Databases - *MySQL, PostrageSQL, MangoDB, AWS RDS*
+
     :chart_with_upwards_trend: Data Visualization - *Statistics, Power BI, MS Excel, Plotly*
-    
-    :books: ML Models - *Regression, Decision tree, Random Forest*
-    
-    :file_cabinet: Databases - *MySQL, PostrageSQL, MangoDB*
     
     :sun_behind_cloud: Cloud - *AWS* 
     
@@ -65,6 +67,10 @@ st.markdown(
     4. Industrial Copper Modeling
     
           The copper industry deals with less complex data related to sales and pricing. However, this data may suffer from issues such as skewness and noisy data, which can affect the accuracy of manual predictions. Dealing with these challenges manually can be time-consuming and may not result in optimal pricing decisions. A machine learning regression model can address these issues by utilizing advanced techniques such as data normalization, feature scaling, and outlier detection, and leveraging algorithms that are robust to skewed and noisy data. 
+    
+    5.  Singapore  Resale Flat Prices Predicting
+
+         The objective of this project is to develop a machine learning model and deploy it as a user-friendly web application that predicts the resale prices of flats in Singapore. This predictive model will be based on historical data of resale flat transactions, and it aims to assist both potential buyers and sellers in estimating the resale value of a flat.
     
     """
 )
