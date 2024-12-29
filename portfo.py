@@ -26,14 +26,13 @@ with col2:
    st.write("nambu935@gmail.com")
 col1, col2,col3 = st.columns(3)
 with col1: 
-   
-   with open("nambuCV.pdf", "rb") as file:
-   st.download_button(
-    label="Resume",
-    data=pdf,
-    file_name="nambuCV.pdf",
-    mime="text/csv",
-    )     
+    with open("nambuCV.pdf", "rb") as file:
+     st.download_button(
+     label="Resume",
+     data=pdf,
+     file_name="nambuCV.pdf",
+     mime="file/pdf",
+        )     
    #st.button("Resume", type="secondary")
 with col2:
    st.link_button("Git Hub", "https://github.com/Nambukeerthi")
