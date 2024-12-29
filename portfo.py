@@ -14,7 +14,8 @@ col1, col2 = st.columns(2)
 with col1:
     #st.write("portfolio")
     img = Image.open("nambuporfolio.jpeg")
-    st.image( img,  height=600, use_container_height=False, channels="RGB" )
+    img_resized = img.resize((400, 600))
+    st.image( img_resized,  channels="RGB" )
     
 with col2:
    
