@@ -46,15 +46,15 @@ st.markdown(
     """
     :computer: :blue-background[Technologies] - *Python, Streamlit, EDA, API integration, VBA, Github*  
 
-    :books: Libraries - *Numpy, Pandas, Skikit-learn, Matplotlib, Seaborn, SQLAlchemy, Boto3*
+    :books: :blue-background[Libraries] - *Numpy, Pandas, Skikit-learn, Matplotlib, Seaborn, SQLAlchemy, Boto3*
     
-    :triangular_ruler: ML Models - *Regression, Decision tree, Random Forest*
+    :triangular_ruler: :blue-background[ML Models] - *Regression, Decision tree, Random Forest*
     
-    :file_cabinet: Databases - *MySQL, PostrageSQL, MangoDB, AWS RDS*
+    :file_cabinet: :blue-background[Databases] - *MySQL, PostrageSQL, MangoDB, AWS RDS*
 
-    :chart_with_upwards_trend: Data Visualization - *Statistics, Power BI, MS Excel, Plotly*
+    :chart_with_upwards_trend: :blue-background[Data Visualization] - *Statistics, Power BI, MS Excel, Plotly*
     
-    :sun_behind_cloud: Cloud - *AWS* 
+    :sun_behind_cloud: :blue-background[Cloud] - *AWS* 
     
     """
 )
