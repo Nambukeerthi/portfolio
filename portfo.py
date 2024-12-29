@@ -19,8 +19,8 @@ with col1:
     
 with col2:
    
-   st.header(":blue[NAMBU KEERTHI R]")
-   st.subheader("Data Scientist")
+   st.header("NAMBU KEERTHI R")
+   st.subheader(":blue[Data Scientist]")
    #st.write("I have completed my Master Data Science course in guvi. ")
    st.markdown("I am a motivated Data Science fresher aiming to leverage my robust programming skills, analytical aptitude, and proficiency in data visualizations to effectively analyze, interpret, and present insights from extensive datasets accurately and meaningfully") 
    st.write("nambu935@gmail.com")
