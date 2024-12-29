@@ -32,7 +32,7 @@ with col1:
   st.download_button(        
       label="Resume",
       data=pdf_bytes,
-      file_name="downloaded_example.pdf",
+      file_name="nambuCSV.pdf",
       mime="application/pdf")    
         
    #st.button("Resume", type="secondary")
