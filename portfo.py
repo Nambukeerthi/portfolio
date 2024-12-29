@@ -26,9 +26,6 @@ with col2:
    st.write("nambu935@gmail.com")
 col1, col2,col3 = st.columns(3)
 with col1:
-  pdf_file_path = "nambuCSV.pdf"      
-  with open(pdf_file_path, "rb") as pdf_file:
-    pdf_bytes = pdf_file.read()
   st.download_button(        
       label="Resume",
       data=pdf_bytes,
