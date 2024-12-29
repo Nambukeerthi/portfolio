@@ -65,9 +65,9 @@ st.markdown(
 
          This Project that enables users to access, analyze, and visualize data from multiple YouTube channels.
          
-             - Data harvesting from YouTube.
+          (' - Data harvesting from YouTube.
              - SQL integration for efficient data warehousing.
-             - Interactive data exploration and analysis through Streamlit.
+             - Interactive data exploration and analysis through Streamlit.')
     
     2. [Phonepe Pulse Data Visualization and Exploration](https://phonepeproject-np7vzyrwmrqn9jhyn94teg.streamlit.app/)
 
