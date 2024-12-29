@@ -31,7 +31,7 @@ with col1:
     st.download_button(
      label="Resume",
      data=pdf_data,
-     file_name="nambuCV.pdf",
+     file_name="Nambu_Keerthi_Resume.pdf",
      mime="application/pdf",
         )     
    #st.button("Resume", type="secondary")
