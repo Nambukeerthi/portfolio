@@ -26,7 +26,7 @@ with col2:
    st.write("nambu935@gmail.com")
 col1, col2,col3 = st.columns(3)
 with col1: 
-    with open("nambuCV.pdf", "rb") as file:
+    with open("Nambu_Keerthi_Resume.pdf", "rb") as file:
         pdf_data = file.read()    
     st.download_button(
      label="Resume",
