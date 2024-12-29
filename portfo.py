@@ -28,7 +28,6 @@ col1, col2,col3 = st.columns(3)
 with col1:
   st.download_button(        
       label="Resume",
-      data=pdf_bytes,
       file_name="nambuCSV.pdf",
       mime="application/pdf")    
         
