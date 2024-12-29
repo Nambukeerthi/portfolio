@@ -75,36 +75,44 @@ st.markdown(
 
          A user-friendly tool to visualize and analyze metrics from the PhonePe Pulse GitHub repository.
          
-             - Data extraction and preprocessing.
-             - Insight generation through visualizations.
-             - Interactive visualizations with Streamlit and Plotly.
+         :small_blue_diamond: Data extraction and preprocessing.
+         
+         :small_blue_diamond: Insight generation through visualizations.
+         
+         :small_blue_diamond: Interactive visualizations with Streamlit and Plotly.
              
     
     3. [Airbnb Analysis](https://airbnbproject-5gd42oftn3vyehwyha8ohd.streamlit.app/)
 
          Comprehensive Analysis of Airbnb data using MongoDB Atlas and geospatial visualizations.
          
-              - Data cleaning and preparation.
-              - Interactive geospatial visualizations.
-              - Insights into pricing variations, availability, and location-based trends.
+         :small_blue_diamond: Data cleaning and preparation.
+         
+         :small_blue_diamond: Interactive geospatial visualizations.
+         
+         :small_blue_diamond: Insights into pricing variations, availability, and location-based trends.
               
               
     4. [Industrial Copper Model](https://copperproject-wlksjkfyhnyhhbnsyhkued.streamlit.app/)
     
-           A Machine Learning Regression model for sales and pricing analysis in the Copper Industry.
+         A Machine Learning Regression model for sales and pricing analysis in the Copper Industry.
 
-              - Handling skewness and noisy data through normalization and outlier detection.
-              - Improved pricing predictions using robust machine learning techniques.
-              - Automated decision-making for optimal pricing strategies.
+         :small_blue_diamond: Handling skewness and noisy data through normalization and outlier detection.
+         
+         :small_blue_diamond: Improved pricing predictions using robust machine learning techniques.
+         
+         :small_blue_diamond: Automated decision-making for optimal pricing strategies.
               
     
     5.  [Singapore Resale Flat Prices Prediction](https://flatpriceproject-brmudwq4p4ebhtwzrg6lkc.streamlit.app/)
 
          A predictive Machine Learning model for estimating Resale Flat prices in Singapore, deployed as a web application.
 
-              - Historical transaction data analysis.
-              - User-friendly web app for buyers and sellers.
-              - Accurate price estimation to assist in decision-making.
+         :small_blue_diamond: Historical transaction data analysis.
+         
+         :small_blue_diamond: User-friendly web app for buyers and sellers.
+         
+         :small_blue_diamond: Accurate price estimation to assist in decision-making.
 
     
     """
