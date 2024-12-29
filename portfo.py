@@ -61,25 +61,49 @@ st.markdown(
 st.subheader("Projects")
 st.markdown(
     """
-    1. [YouTube Data Harvesting and Warehousing using SQL and Streamlit](https://youtubedataproject-mkjagva9qhyswv8gukrxaq.streamlit.app/)
+    1. [YouTube Data Harvesting and Warehousing](https://youtubedataproject-mkjagva9qhyswv8gukrxaq.streamlit.app/)
 
-         The Streamlit application that allows users to access and analyze data from multiple YouTube channels.
+         This Project that enables users to access, analyze, and visualize data from multiple YouTube channels.
+         
+             - Data harvesting from YouTube.
+             - SQL integration for efficient data warehousing.
+             - Interactive data exploration and analysis through Streamlit.
     
-    2. [Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly](https://phonepeproject-np7vzyrwmrqn9jhyn94teg.streamlit.app/)
+    2. [Phonepe Pulse Data Visualization and Exploration](https://phonepeproject-np7vzyrwmrqn9jhyn94teg.streamlit.app/)
 
-         The Phonepe pulse Github repository contains a large amount of data related tovarious metrics and statistics. The goal is to extract this data and process it to obtaininsights and information that can be visualized in a user-friendly manner.
+         A user-friendly tool to visualize and analyze metrics from the PhonePe Pulse GitHub repository.
+         
+             - Data extraction and preprocessing.
+             - Insight generation through visualizations.
+             - Interactive visualizations with Streamlit and Plotly.
+             
     
     3. [Airbnb Analysis](https://airbnbproject-5gd42oftn3vyehwyha8ohd.streamlit.app/)
 
-         This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
+         Comprehensive Analysis of Airbnb data using MongoDB Atlas and geospatial visualizations.
+         
+              - Data cleaning and preparation.
+              - Interactive geospatial visualizations.
+              - Insights into pricing variations, availability, and location-based trends.
+              
+              
+    4. [Industrial Copper Model](https://copperproject-wlksjkfyhnyhhbnsyhkued.streamlit.app/)
     
-    4. Industrial Copper Modeling
-    
-          The copper industry deals with less complex data related to sales and pricing. However, this data may suffer from issues such as skewness and noisy data, which can affect the accuracy of manual predictions. Dealing with these challenges manually can be time-consuming and may not result in optimal pricing decisions. A machine learning regression model can address these issues by utilizing advanced techniques such as data normalization, feature scaling, and outlier detection, and leveraging algorithms that are robust to skewed and noisy data. 
-    
-    5.  Singapore  Resale Flat Prices Predicting
+           A Machine Learning Regression model for sales and pricing analysis in the Copper Industry.
 
-         The objective of this project is to develop a machine learning model and deploy it as a user-friendly web application that predicts the resale prices of flats in Singapore. This predictive model will be based on historical data of resale flat transactions, and it aims to assist both potential buyers and sellers in estimating the resale value of a flat.
+              - Handling skewness and noisy data through normalization and outlier detection.
+              - Improved pricing predictions using robust machine learning techniques.
+              - Automated decision-making for optimal pricing strategies.
+              
+    
+    5.  [Singapore Resale Flat Prices Prediction](https://flatpriceproject-brmudwq4p4ebhtwzrg6lkc.streamlit.app/)
+
+         A predictive Machine Learning model for estimating Resale Flat prices in Singapore, deployed as a web application.
+
+              - Historical transaction data analysis.
+              - User-friendly web app for buyers and sellers.
+              - Accurate price estimation to assist in decision-making.
+
     
     """
 )
