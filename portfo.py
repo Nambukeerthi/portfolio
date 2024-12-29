@@ -65,9 +65,9 @@ st.markdown(
 
          This Project that enables users to access, analyze, and visualize data from multiple YouTube channels.
          
-             ':small_blue_diamond: Data harvesting from YouTube.
-             :small_blue_diamond: SQL integration for efficient data warehousing.
-             :small_blue_diamond: Interactive data exploration and analysis through Streamlit.'
+         :small_blue_diamond: Data harvesting from YouTube.
+         :small_blue_diamond: SQL integration for efficient data warehousing.
+         :small_blue_diamond: Interactive data exploration and analysis through Streamlit.'
     
     2. [Phonepe Pulse Data Visualization and Exploration](https://phonepeproject-np7vzyrwmrqn9jhyn94teg.streamlit.app/)
 
