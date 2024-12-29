@@ -41,7 +41,7 @@ with col2:
 with col3:
    st.link_button("linked in", "https://www.linkedin.com/in/keerthi-r-9b8839283/")        
 
-st.subheader("Skills")
+st.subheader("SKILLS")
 st.markdown(
     """
     :computer: :blue-background[Technologies] - *Python, Streamlit, EDA, API integration, VBA, Github*  
@@ -58,7 +58,7 @@ st.markdown(
     
     """
 )
-st.subheader("Projects")
+st.subheader("PROJECTS")
 st.markdown(
     """
     1. [YouTube Data Harvesting and Warehousing](https://youtubedataproject-mkjagva9qhyswv8gukrxaq.streamlit.app/)
