@@ -27,11 +27,12 @@ with col2:
 col1, col2,col3 = st.columns(3)
 with col1: 
     with open("nambuCV.pdf", "rb") as file:
-     st.download_button(
+        pdf_data = file.read()    
+    st.download_button(
      label="Resume",
-     data=pdf,
+     data=pdf_data,
      file_name="nambuCV.pdf",
-     mime="file/pdf",
+     mime="application/pdf",
         )     
    #st.button("Resume", type="secondary")
 with col2:
