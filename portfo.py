@@ -44,7 +44,7 @@ with col3:
 st.subheader("Skills")
 st.markdown(
     """
-    :computer: :blue-background[highlight]Technologies - *Python, Streamlit, EDA, API integration, VBA, Github*  
+    :computer: :blue-background[Technologies] - *Python, Streamlit, EDA, API integration, VBA, Github*  
 
     :books: Libraries - *Numpy, Pandas, Skikit-learn, Matplotlib, Seaborn, SQLAlchemy, Boto3*
     
