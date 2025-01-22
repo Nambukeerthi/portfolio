@@ -104,7 +104,7 @@ st.markdown(
          :small_blue_diamond: Automated decision-making for optimal pricing strategies.
               
     
-    5.  [Singapore Resale Flat Prices Prediction](https://flatpriceproject-brmudwq4p4ebhtwzrg6lkc.streamlit.app/)
+    5.  [Singapore Resale Flat Prices Prediction](https://flatpriceproject-jripvgug8b43r2dwz8d2ta.streamlit.app/)
 
          A predictive Machine Learning model for estimating Resale Flat prices in Singapore, deployed as a web application.
 
