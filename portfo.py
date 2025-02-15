@@ -21,7 +21,6 @@ with col2:
    
    st.header("NAMBU KEERTHI R")
    st.subheader(":blue[Data Scientist]")
-   #st.write("I have completed my Master Data Science course in guvi. ")
    st.markdown("I am a motivated Data Science fresher aiming to leverage my robust programming skills, analytical aptitude, and proficiency in data visualizations to effectively analyze, interpret, and present insights from extensive datasets accurately and meaningfully") 
    st.write("nambu935@gmail.com")
 col1, col2,col3 = st.columns(3)
@@ -34,7 +33,7 @@ with col1:
      file_name="Nambu_Keerthi_Data_Scientist.pdf", 
      mime="application/pdf",
         )     
-   #st.button("Resume", type="secondary")
+   
 with col2:
    st.link_button("Git Hub", "https://github.com/Nambukeerthi")
    
