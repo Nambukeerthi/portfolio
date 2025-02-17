@@ -13,8 +13,8 @@ col1, col2 = st.columns(2)
 
 with col1:
     #st.write("portfolio")
-    img = Image.open("image-nambu.png")
-    img_resized = img.resize((300, 400))
+    img = Image.open("nambupic.png")
+    img_resized = img.resize((400, 500))
     st.image( img_resized,  channels="RGB" )
     
 with col2:
