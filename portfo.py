@@ -13,7 +13,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     #st.write("portfolio")
-    img = Image.open("logo1.png")
+    img = Image.open("logo.png")
     img_resized = img.resize((500, 500))
     st.image( img_resized,  channels="RGB" )
     
