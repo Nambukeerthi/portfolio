@@ -32,7 +32,7 @@ with col1:
      data=pdf_data,
      file_name="Nambu_Keerthi_Data_Scientist.pdf", 
      mime="application/pdf",      
-     icon="😃"
+     type='primary'
         )     
    
 with col2:
