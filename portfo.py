@@ -31,15 +31,14 @@ with col1:
      label="Resume",
      data=pdf_data,
      file_name="Nambu_Keerthi_Data_Scientist.pdf", 
-     mime="application/pdf",   
-     type= "tertiary"     
+     mime="application/pdf",        
         )     
    
 with col2:
-   st.link_button("Git Hub", "https://github.com/Nambukeerthi", type='primary')
+   st.link_button("Git Hub", "https://github.com/Nambukeerthi")
    
 with col3:
-   st.link_button("linked in", "https://www.linkedin.com/in/keerthi-r-9b8839283/", type='primary')        
+   st.link_button("linked in", "https://www.linkedin.com/in/keerthi-r-9b8839283/")        
 
 
 
