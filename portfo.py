@@ -31,9 +31,8 @@ with col1:
      label="Resume",
      data=pdf_data,
      file_name="Nambu_Keerthi_Data_Scientist.pdf", 
-     mime="application/pdf",
-     backgroundColor="#FFFFFF"       
-     #type='primary'
+     mime="application/pdf",      
+     type='primary'
         )     
    
 with col2:
