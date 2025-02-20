@@ -48,7 +48,7 @@ st.markdown('<div class="red-download-button">', unsafe_allow_html=True)
         file_name="sample.txt",
         mime="text/plain",
     )
-    st.markdown('</div>', unsafe_allow_html=True
+st.markdown('</div>', unsafe_allow_html=True
 
 st.subheader("SKILLS")
 st.markdown(
