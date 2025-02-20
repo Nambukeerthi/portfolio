@@ -32,14 +32,14 @@ with col1:
      data=pdf_data,
      file_name="Nambu_Keerthi_Data_Scientist.pdf", 
      mime="application/pdf",
-     type='secondary'
+     type='primary'
         )     
    
 with col2:
-   st.link_button("Git Hub", "https://github.com/Nambukeerthi")
+   st.link_button(type='primary',"Git Hub", "https://github.com/Nambukeerthi")
    
 with col3:
-   st.link_button("linked in", "https://www.linkedin.com/in/keerthi-r-9b8839283/")        
+   st.link_button(type='primary',"linked in", "https://www.linkedin.com/in/keerthi-r-9b8839283/")        
 
 st.subheader("SKILLS")
 st.markdown(
