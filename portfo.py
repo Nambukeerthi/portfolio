@@ -31,8 +31,8 @@ with col1:
      label="Resume",
      data=pdf_data,
      file_name="Nambu_Keerthi_Data_Scientist.pdf", 
-     mime="application/pdf",      
-     type='primary'
+     mime="application/pdf",   
+     type= "tertiary"     
         )     
    
 with col2:
@@ -41,14 +41,7 @@ with col2:
 with col3:
    st.link_button("linked in", "https://www.linkedin.com/in/keerthi-r-9b8839283/", type='primary')        
 
-st.markdown('<div class="red-download-button">', unsafe_allow_html=True)
-st.download_button(
-        label="⬇ Download File",
-        data=text_bytes,
-        file_name="sample.txt",
-        mime="text/plain",
-    )
-st.markdown('</div>', unsafe_allow_html=True)
+
 
 st.subheader("SKILLS")
 st.markdown(
