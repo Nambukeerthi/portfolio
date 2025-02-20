@@ -36,10 +36,10 @@ with col1:
         )     
    
 with col2:
-   st.link_button(type='primary',"Git Hub", "https://github.com/Nambukeerthi")
+   st.link_button("Git Hub", "https://github.com/Nambukeerthi", type='primary')
    
 with col3:
-   st.link_button(type='primary',"linked in", "https://www.linkedin.com/in/keerthi-r-9b8839283/")        
+   st.link_button("linked in", "https://www.linkedin.com/in/keerthi-r-9b8839283/", type='primary')        
 
 st.subheader("SKILLS")
 st.markdown(
