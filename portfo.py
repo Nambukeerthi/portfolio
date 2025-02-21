@@ -21,7 +21,7 @@ with col2:
    
    st.header("NAMBU KEERTHI R")
    st.subheader(":blue[Data Scientist]")
-   st.markdown("I am a motivated Data Science fresher aiming to leverage my robust programming skills, analytical aptitude, and proficiency in data visualizations to effectively analyze, interpret, and present insights from extensive datasets accurately and meaningfully") 
+   st.markdown("I am a Data Science fresher aiming to leverage my robust programming skills, analytical aptitude, and proficiency in data visualizations to effectively analyze, interpret, and present insights from extensive datasets accurately and meaningfully") 
    st.write("nambu935@gmail.com")
 col1, col2,col3 = st.columns(3)
 with col1: 
