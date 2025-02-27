@@ -10,7 +10,7 @@ st.set_page_config(
     )
 with st.sidebar :
     #st.write("portfolio")
-    img = Image.open("WhatsApp.jpeg")
+    img = Image.open("images/WhatsApp.jpeg")
     img_resized = img.resize((500, 500))
     st.image( img_resized,  channels="RGB" )
      
@@ -74,4 +74,26 @@ st.markdown(
     "<hr style='border: 3px solid skyblue; margin: 10px 0;'>",
     unsafe_allow_html=True
 )
+st.markdown(" ")    
 
+
+st.subheader("PROJECTS")
+col1, col2 = st.columns(2)
+with col1:
+        st.markdown("**1. YouTube Data Harvesting and Warehousing**")
+        img = Image.open("images/youtube_project.jpeg")
+        img_resized = img.resize((300, 300))
+        st.image( img_resized,  channels="RGB" )
+with col2:
+        st.markdown(
+            """
+              [YouTube Data Harvesting and Warehousing](https://youtubedataproject-mkjagva9qhyswv8gukrxaq.streamlit.app/)
+        
+                 This Project that enables users to access, analyze, and visualize data from multiple YouTube channels.
+                 
+                 :small_blue_diamond: Data harvesting from YouTube.
+                 
+                 :small_blue_diamond: SQL integration for efficient data warehousing.
+                 
+                 :small_blue_diamond: Interactive data exploration and analysis through Streamlit. """)
+ 
