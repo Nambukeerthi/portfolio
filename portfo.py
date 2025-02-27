@@ -39,7 +39,7 @@ with st.sidebar :
 
 
 img = Image.open("images/header-data-science.png")
-img_resized = img.resize((600, 50))
+img_resized = img.resize((1000, 150))
 st.image( img_resized,  channels="RGB" )
 
 st.header("NAMBU KEERTHI R")
