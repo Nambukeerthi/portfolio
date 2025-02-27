@@ -124,7 +124,7 @@ col5, col6 = st.columns(2)
 with col5:
         st.markdown("**3. Airbnb Analysis**")
         img = Image.open("images/airbnb600.jpeg")
-        img_resized = img.resize((300, 300))
+        img_resized = img.resize((300, 200))
         st.image( img_resized,  channels="RGB" )
 with col6:
         st.markdown(
@@ -145,7 +145,7 @@ col7, col8 = st.columns(2)
 with col7:
         st.markdown("**4. Industrial Copper Model**")
         img = Image.open("images/copper-wire-1.jpg")
-        img_resized = img.resize((300, 300))
+        img_resized = img.resize((300, 200))
         st.image( img_resized,  channels="RGB" )
 with col8:
         st.markdown(
@@ -167,7 +167,7 @@ col9, col10 = st.columns(2)
 with col9:
         st.markdown("**4. Singapore Resale Flat Prices Prediction**")
         img = Image.open("images/flat_pic.jpg")
-        img_resized = img.resize((300, 300))
+        img_resized = img.resize((300, 200))
         st.image( img_resized,  channels="RGB" )
 with col10:
         st.markdown(
