@@ -8,8 +8,6 @@ st.set_page_config(
         page_icon="",
          )
 
-st.image("images/header-data-science.png", use_column_width=True)
-
 with st.sidebar :
     #st.write("portfolio")
     img = Image.open("images/WhatsApp.jpeg")
@@ -40,9 +38,6 @@ with st.sidebar :
     st.link_button("linked in", "https://www.linkedin.com/in/keerthi-r-9b8839283/")
 
 
-img = Image.open("images/header-data-science.png")
-img_resized = img.resize((1000, 300))
-st.image( img_resized,  channels="RGB" )
 
 st.header("NAMBU KEERTHI R")
 
