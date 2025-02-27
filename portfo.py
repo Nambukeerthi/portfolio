@@ -6,7 +6,7 @@ from sqlalchemy import create_engine
 st.set_page_config(
         page_title="Portfolio",
         page_icon="",
-
+        st.image("images/header-data-science.png", use_column_width=True) 
     )
 with st.sidebar :
     #st.write("portfolio")
