@@ -31,11 +31,11 @@ with st.sidebar :
     st.markdown(" ")
     st.markdown(" ")
     st.markdown(" ")    
-    st.link_button("Git Hub", "https://github.com/Nambukeerthi")
+    st.link_button("GitHub", "https://github.com/Nambukeerthi")
     st.markdown(" ")
     st.markdown(" ")    
     st.markdown(" ")
-    st.link_button("linked in", "https://www.linkedin.com/in/keerthi-r-9b8839283/")
+    st.link_button("linkedin", "https://www.linkedin.com/in/keerthi-r-9b8839283/")
 
 
 
