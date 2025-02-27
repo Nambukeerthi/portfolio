@@ -102,7 +102,7 @@ st.markdown(" ")
 col3, col4 = st.columns(2)
 with col3:
         st.markdown("**2. Phonepe Pulse Data Visualization and Exploration**")
-        img = Image.open("images/phonepe.jpeg")
+        img = Image.open("images/phonpe.jpeg")
         img_resized = img.resize((300, 300))
         st.image( img_resized,  channels="RGB" )
 with col4:
