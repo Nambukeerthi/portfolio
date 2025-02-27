@@ -97,3 +97,88 @@ with col2:
                  
                  :small_blue_diamond: Interactive data exploration and analysis through Streamlit. """)
  
+st.markdown(" ")
+st.markdown(" ") 
+col3, col4 = st.columns(2)
+with col3:
+        st.markdown("**2. Phonepe Pulse Data Visualization and Exploration**")
+        img = Image.open("images/phonepe.jpeg")
+        img_resized = img.resize((300, 300))
+        st.image( img_resized,  channels="RGB" )
+with col4:
+        st.markdown(
+            """
+              [Phonepe Pulse Data Visualization and Exploration](https://phonepeproject-np7vzyrwmrqn9jhyn94teg.streamlit.app/)
+
+                 A user-friendly tool to visualize and analyze metrics from the PhonePe Pulse GitHub repository.
+                 
+                 :small_blue_diamond: Data extraction and preprocessing.
+                 
+                 :small_blue_diamond: Insight generation through visualizations.
+                 
+                 :small_blue_diamond: Interactive visualizations with Streamlit and Plotly. """)
+
+st.markdown(" ")
+st.markdown(" ") 
+col5, col6 = st.columns(2)
+with col5:
+        st.markdown("**3. Airbnb Analysis**")
+        img = Image.open("images/airbnb600.jpeg")
+        img_resized = img.resize((300, 300))
+        st.image( img_resized,  channels="RGB" )
+with col6:
+        st.markdown(
+            """
+              [Airbnb Analysis](https://airbnbproject-5gd42oftn3vyehwyha8ohd.streamlit.app/)
+
+                 Comprehensive Analysis of Airbnb data using MongoDB Atlas and geospatial visualizations.
+                 
+                 :small_blue_diamond: Data cleaning and preparation.
+                 
+                 :small_blue_diamond: Interactive geospatial visualizations.
+                 
+                 :small_blue_diamond: Insights into pricing variations, availability, and location-based trends. """)
+
+st.markdown(" ")
+st.markdown(" ") 
+col7, col8 = st.columns(2)
+with col7:
+        st.markdown("**4. Industrial Copper Model**")
+        img = Image.open("images/copper-wire-1.jpg")
+        img_resized = img.resize((300, 300))
+        st.image( img_resized,  channels="RGB" )
+with col8:
+        st.markdown(
+            """
+              [Industrial Copper Model](https://copperproject-wlksjkfyhnyhhbnsyhkued.streamlit.app/)
+    
+                 A Machine Learning Regression model for sales and pricing analysis in the Copper Industry.
+        
+                 :small_blue_diamond: Handling skewness and noisy data through normalization and outlier detection.
+                 
+                 :small_blue_diamond: Improved pricing predictions using robust machine learning techniques.
+                 
+                 :small_blue_diamond: Automated decision-making for optimal pricing strategies. """)
+
+
+st.markdown(" ")
+st.markdown(" ") 
+col9, col10 = st.columns(2)
+with col9:
+        st.markdown("**4. Singapore Resale Flat Prices Prediction**")
+        img = Image.open("images/flat_pic.jpg")
+        img_resized = img.resize((300, 300))
+        st.image( img_resized,  channels="RGB" )
+with col10:
+        st.markdown(
+            """
+              [Singapore Resale Flat Prices Prediction](https://flatpriceproject-jripvgug8b43r2dwz8d2ta.streamlit.app/)
+
+                 A predictive Machine Learning model for estimating Resale Flat prices in Singapore, deployed as a web application.
+        
+                 :small_blue_diamond: Historical transaction data analysis.
+                 
+                 :small_blue_diamond: User-friendly web app for buyers and sellers.
+                 
+                 :small_blue_diamond: Accurate price estimation to assist in decision-making. """)
+
