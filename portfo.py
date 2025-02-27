@@ -38,6 +38,10 @@ with st.sidebar :
     st.link_button("linked in", "https://www.linkedin.com/in/keerthi-r-9b8839283/")
 
 
+#img = Image.open("images/WhatsApp.jpeg")
+#img_resized = img.resize((500, 500))
+#st.image( img_resized,  channels="RGB" )
+
 st.header("NAMBU KEERTHI R")
 
 st.subheader(":blue[Data Scientist]")
@@ -78,6 +82,7 @@ st.markdown(" ")
 
 
 st.subheader("PROJECTS")
+
 col1, col2 = st.columns(2)
 with col1:
         st.markdown("**1. YouTube Data Harvesting and Warehousing**")
