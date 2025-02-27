@@ -35,7 +35,7 @@ with st.sidebar :
     st.markdown(" ")
     st.markdown(" ")    
     st.markdown(" ")
-    st.link_button("linkedin", "https://www.linkedin.com/in/keerthi-r-9b8839283/")
+    st.link_button("Linkedin", "https://www.linkedin.com/in/keerthi-r-9b8839283/")
 
 
 
