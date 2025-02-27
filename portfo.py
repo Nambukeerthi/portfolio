@@ -38,9 +38,9 @@ with st.sidebar :
     st.link_button("linked in", "https://www.linkedin.com/in/keerthi-r-9b8839283/")
 
 
-#img = Image.open("images/WhatsApp.jpeg")
-#img_resized = img.resize((500, 500))
-#st.image( img_resized,  channels="RGB" )
+img = Image.open("images/header-data-science.png")
+img_resized = img.resize((600, 50))
+st.image( img_resized,  channels="RGB" )
 
 st.header("NAMBU KEERTHI R")
 
