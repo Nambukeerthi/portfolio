@@ -84,7 +84,7 @@ col1, col2 = st.columns(2)
 with col1:
         st.markdown("**1. YouTube Data Harvesting and Warehousing**")
         img = Image.open("images/youtube_project.jpeg")
-        img_resized = img.resize((300, 300))
+        img_resized = img.resize((300, 200))
         st.image( img_resized,  channels="RGB" )
 with col2:
         st.markdown(
