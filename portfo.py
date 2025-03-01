@@ -20,7 +20,7 @@ with st.sidebar :
     st.markdown(" ")
     st.markdown(" ")
     st.markdown(" ")    
-    with open("Nambu_Keerthi_Data_Scientist (4).pdf", "rb") as file:
+    with open("Nambu_Keerthi_Data_Scientist_1.pdf", "rb") as file:
         pdf_data = file.read()    
     st.download_button(
      label="Resume",
